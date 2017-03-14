@@ -1,0 +1,5 @@
+[module-nginx-master]
+name=An nginx module built in production infra - for testing only
+baseurl=https://kojipkgs.fedoraproject.org/repos/module-nginx-master-20170314113934/latest/x86_64/
+enabled=1
+gpgcheck=0

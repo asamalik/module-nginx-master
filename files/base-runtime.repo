@@ -1,0 +1,5 @@
+[module-base-runtime-master]
+name=Base runtime
+baseurl=https://fedorapeople.org/groups/modularity/repos/base-runtime/26/
+enabled=1
+gpgcheck=0
